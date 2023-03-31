@@ -1,0 +1,91 @@
+html{scroll-behavior:smooth}
+
+.main-logo {
+    color: black !important;
+    font-family: 'champagne', 'serif' !important;
+}
+
+.main-names {
+    font-family: 'champagne', 'serif' !important;
+    font-size: 6.5em !important;
+}
+
+.fh5co-heading h2 {
+    font-family: 'champagne', 'serif' !important;
+    color: black;
+    font-size: 3em !important;
+}
+
+.mb-3 {
+    margin-bottom: 3em !important;
+}
+
+.family-names h2 {
+    font-family: 'champagne', 'serif' !important;
+    font-size: 2.5em !important;
+}
+
+.event-wrap img {
+    border-radius: 100%;
+    height: 15em;
+    width: 15em;
+    object-fit: cover;
+}
+
+#fh5co-started .fh5co-heading h2 {
+    font-family: 'champagne', 'serif' !important;
+}
+
+#fh5co-started .fh5co-heading p {
+    font-family: 'serif' !important;
+}
+
+#coming option {
+    color: black !important;
+}
+
+#my-form-status {
+    font-weight: bold;
+    position: relative;
+}
+
+.form-success {
+    background-color: #800020 !important;
+}
+
+@media screen and (max-width: 900px) {
+    .main-names {
+      font-size: 3em !important;
+    }
+
+    .fh5co-nav #fh5co-logo {
+        font-size: 2em;
+    }
+}
+@media screen and (max-width: 480px) {
+    .main-names {
+        font-size: 3em !important;
+    }
+
+    .fh5co-nav #fh5co-logo {
+        font-size: 2em;
+    }
+}
+
+#monogram {
+    height: 1em;
+}
+
+.equal {
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+  }
+
+/* .fh5co-heading p {
+    font-size: 20px !important;
+}
+
+.family-names {
+    font-size: 20px !important;
+} */
